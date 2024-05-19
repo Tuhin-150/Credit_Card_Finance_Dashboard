@@ -6,7 +6,7 @@ PowerBI Dasboard
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
 # What I have done for this project.
-* Prepare csv file
+* Prepare the csv file
 * Create tables in SQL
 * Import csv file into SQL
 * Data from SQL
@@ -33,5 +33,5 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
   * Overall Delinquent rate is 6.06%
 
 # Challenges
- *  I need to convert the date format from "d-m-Y" to "Y-m-d" before importing it. I can achieve this by using MySQL's STR_TO_DATE function during the import process.
+ *  I had to convert the date format from "d-m-Y" to "Y-m-d" before importing it. I was able to achieve this by using MySQL's STR_TO_DATE function during the import process.
  *  Added more data to the existing table in MySQL from another CSV file, where the column type was the same.
